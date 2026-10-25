@@ -1,0 +1,6 @@
+url: https://github.com/KarBurKi/dsh-recall
+name: KarBurKi/dsh-recall
+category: memory
+description:
+  en: 'Cross-session memory with seven tools: save, BM25 search, a cross-session brief, source tracing, forget, a shared wall, and per-session private notebooks.'
+  zh: 跨会话记忆，七个工具：保存、BM25 检索、跨会话简报、溯源、遗忘、会话墙、私密本子。
